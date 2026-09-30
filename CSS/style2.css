@@ -1,0 +1,23 @@
+div{
+    height: 200px;
+    width: 400px;
+    background-color: lightblue;
+    border:5px solid black;
+    /* border-left-color:yellow;
+    border-top: 5px dashed red; */
+    border-radius: 20px;
+    padding-top: 20px;
+    margin:20px 30px 40px 50px;
+}
+
+h1{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: blue;
+    /* border-radius:50%; */
+}
+
+button{
+    padding:0px 20px 0px 20px;
+
+}
